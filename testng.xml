@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium">
+  <test name="EswarTestNG">
+    <classes>
+      <class name="sep_7.SecondTestNGClass"/>
+    </classes>
+  </test> <!-- EswarTestNG -->
+   <test name="EswarTestNG1">
+    <classes>
+      <class name="sep6.FirstTestNGclass"/>
+    </classes>
+  </test> <!-- EswarTestNG -->
+  <test name="EswarTestNG2">
+    <classes>
+      <class name="primusbank.ThriedTestNGclass"/>
+    </classes>
+  </test> <!-- EswarTestNG -->
+  
+</suite> <!-- Selenium -->

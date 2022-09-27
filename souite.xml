@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Eswara">
+	<test name="myReport">
+		<classes>
+		<class name="sep6.FirstTestNGclass">
+		</class>
+			<class name="sep_7.SecondTestNGClass">
+			</class>
+			<class name="primusbank.ThriedTestNGclass">
+			</class>
+		</classes>
+	</test>
+</suite>
